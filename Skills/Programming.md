@@ -55,52 +55,52 @@
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
-  - record: 
-  - enum: 
-  - instance: 
+  - record: 🔬 researched
+  - enum: 🖐️ used
+  - instance: 🎓 known
   - object: 🖐️ used
-  - class: 
-  - collection: 
+  - class: 🖐️ used
+  - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 
-  - linked list: 
-  - doubly list: 
-  - unrolled list: 
-  - circular list: 
-  - queue: 
-  - stack: 
-  - deque: 
-  - tree: 
-  - graph: 
+  - hash table: 🔬 researched
+  - linked list: 🔬 researched
+  - doubly list: 🔬 researched
+  - unrolled list: 🔬 researched
+  - circular list: 🔬 researched
+  - queue: 👂 heard
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator: 🖐️ used
-  - mutable state: 
-  - immutable state: 
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
   - serialization: 
-  - string parsing: 
+  - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 
   - linter: 
   - polyfill: 
-  - debugger: 
+  - debugger: 🎓 known
   - garbage collection: 
   - refactoring: 
-  - code review: 
+  - code review: 📢 talked
   - antipatterns: 
-  - paradigm: 
-  - algorithm: 
+  - paradigm: 👂 heard
+  - algorithm: 🖐️ used
   - magic numbers: 
   - hardcode: 
-  - complexity: 
-  - decomposition: 
-  - spaghetti: 
+  - complexity: 🖐️ used
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
   - silver bullet: 
   - not invented here: 
-  - dead code: 
-  - unreachable code: 
-  - duplicate code: 
+  - dead code: 🎓 known
+  - unreachable code: 👂 heard
+  - duplicate code: 🖐️ used
   - exception: 
-  - return early: 
+  - return early: 🖐️ used
   - unittest: 
   - git: 🖐️ used
   - github: 🖐️ used
