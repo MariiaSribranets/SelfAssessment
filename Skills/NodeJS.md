@@ -12,13 +12,13 @@
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - ECMAScript modules: 👂 heard
+  - node:module: : 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: : 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -103,7 +103,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -116,7 +116,7 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
   - Readable
   - Writable
