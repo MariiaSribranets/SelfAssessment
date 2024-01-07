@@ -23,7 +23,7 @@
 - OOP basics
   - constructor: 🖐️ used
   - new
-  - Static method: 🔬 researched
+  - Static method
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters
@@ -33,7 +33,7 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism
-  - Abstract class: 🔬 researched
+  - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
