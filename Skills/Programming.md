@@ -8,25 +8,25 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap:
+  - heap:🔬 researched
   - function: 🖐️ used
   - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype: 👂 heard
+  - prototype🔬 researched
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
   - flag: 🖐️ used
-  - lexical scope: 
+  - lexical scope: 🔬 researched
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 👂 heard
-  - contract
+  - interface: 🔬 researched
+  - contract: 🔬 researched
   - module: 🖐️ used
   - call stack: 🖐️ used
 - Functions
@@ -36,40 +36,40 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure: 👂 heard
-  - partial application
+  - closure: 🔬 researched
+  - partial application: 🔬 researched
   - curry: 🔬 researched
   - higher order: 🔬 researched
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose: 👂 heard
-  - pipe
-  - memoize: 👂 heard
-  - wrapper
+  - compose: 🔬 researched
+  - pipe: 🔬 researched
+  - memoize: 🔬 researched
+  - wrapper: 🔬 researched
   - functor: 🖐️ used
-  - monad
-  - monoid
+  - monad: 🔬 researched
+  - monoid: 🔬 researched
   - generator: 🖐️ used
-  - coroutine
+  - coroutine: 🔬 researched
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
-  - record
+  - record: 🔬 researched
   - enum: 🖐️ used
   - instance: 🎓 known
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - hash table: 🔬 researched
+  - linked list: 🔬 researched
+  - doubly list: 🔬 researched
+  - unrolled list: 🔬 researched
+  - circular list: 🔬 researched
   - queue: 👂 heard
   - stack: 👂 heard
-  - deque:
+  - deque: 
   - tree: 👂 heard
   - graph: 👂 heard
   - iterator: 🖐️ used
@@ -86,11 +86,11 @@
   - garbage collection: 
   - refactoring: 
   - code review: 📢 talked
-  - antipatterns: 
+  - antipatterns: 👂 heard
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
   - magic numbers: 
-  - hardcode: 
+  - hardcode: 👂 heard
   - complexity: 🖐️ used
   - decomposition: 👂 heard
   - spaghetti: 👂 heard
