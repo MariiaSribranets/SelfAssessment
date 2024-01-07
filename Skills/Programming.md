@@ -8,25 +8,25 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap:🔬 researched
+  - heap:
   - function: 🖐️ used
   - procedure: 🖐️ used
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype🔬 researched
+  - prototype: 👂 heard
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
   - flag: 🖐️ used
-  - lexical scope: 🔬 researched
+  - lexical scope: 
   - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used
   - regular expression: 🖐️ used
-  - interface: 🔬 researched
-  - contract: 🔬 researched
+  - interface: 👂 heard
+  - contract
   - module: 🖐️ used
   - call stack: 🖐️ used
 - Functions
@@ -36,40 +36,40 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure: 🔬 researched
-  - partial application: 🔬 researched
+  - closure: 👂 heard
+  - partial application
   - curry: 🔬 researched
   - higher order: 🔬 researched
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose: 🔬 researched
-  - pipe: 🔬 researched
-  - memoize: 🔬 researched
-  - wrapper: 🔬 researched
+  - compose: 👂 heard
+  - pipe
+  - memoize: 👂 heard
+  - wrapper
   - functor: 🖐️ used
-  - monad: 🔬 researched
-  - monoid: 🔬 researched
+  - monad
+  - monoid
   - generator: 🖐️ used
-  - coroutine: 🔬 researched
+  - coroutine
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
-  - record: 🔬 researched
+  - record
   - enum: 🖐️ used
   - instance: 🎓 known
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 🔬 researched
-  - linked list: 🔬 researched
-  - doubly list: 🔬 researched
-  - unrolled list: 🔬 researched
-  - circular list: 🔬 researched
+  - hash table: 👂 heard
+  - linked list
+  - doubly list
+  - unrolled list
+  - circular list
   - queue: 👂 heard
   - stack: 👂 heard
-  - deque: 👂 heard
+  - deque:
   - tree: 👂 heard
   - graph: 👂 heard
   - iterator: 🖐️ used
