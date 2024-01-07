@@ -3,16 +3,16 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 🖐️ used
+  - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,19 +21,19 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor: 🖐️ used
   - new
-  - Static method
-  - Method
-  - Async method
+  - Static method: 🔬 researched
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
   - Polymorphism
-  - Abstract class
+  - Abstract class: 🔬 researched
   - Interface
   - Encapsulation
   - Hidden class
@@ -47,16 +47,16 @@
   - Abstract Factory
   - Adapter
   - Observer
-  - Strategy
+  - Strategy: 🎓 known
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 👂 heard
   - Composite
   - Decorator
   - Flyweight
