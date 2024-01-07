@@ -38,8 +38,8 @@
   - side effects: 🖐️ used
   - closure: 👂 heard
   - partial application
-  - curry: 🔬 researched
-  - higher order: 🔬 researched
+  - curry
+  - higher order
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
