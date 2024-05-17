@@ -32,34 +32,34 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🔬 researched
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 🔬 researched
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
-  - Event
+  - Event: 🖐️ used
   - Type
-  - Flag
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -82,50 +82,50 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
   - Lambda expression
-  - Side effects
-  - Closure
+  - Side effects: 🖐️ used
+  - Closure: 🖐️ used
   - Partial application
-  - Currying
+  - Currying: 🔬 researched
   - Higher order
-  - Recursion
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
   - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
+  - Pipe: 🔬 researched
+  - Memoize: 🔬 researched
+  - Wrapper: 🔬 researched
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator: 🖐️ used
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🔬 researched
+  - Linked list: 🔬 researched
+  - Doubly list: 🔬 researched
+  - Unrolled list: 🔬 researched
+  - Circular list: 🔬 researched
+  - Queue: 🔬 researched
+  - Stack: 🔬 researched
+  - Deque: 🔬 researched
+  - Tree: 🔬 researched
+  - Graph: 🔬 researched
+  - Iterator: 🖐️ used
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
   - Serialization
   - String parsing
   - JSON
@@ -172,13 +172,13 @@
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
