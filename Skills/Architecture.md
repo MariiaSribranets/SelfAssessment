@@ -2,26 +2,26 @@
 
 - Application structure
   - Modularity
-  - Components
-  - Directories
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -33,7 +33,7 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -47,11 +47,11 @@
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
@@ -61,16 +61,16 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
+  - A software requirements specification (SRS): 👂 heard
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture: 👂 heard
   - Microservices
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
+  - Business Intelligence: 👂 heard
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Quality assurance: 👂 heard
+  - Engineering Hygiene: 👂 heard

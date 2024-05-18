@@ -1,40 +1,40 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
+  - Data types: 🎓 known
+  - Performance tuning: 👂 heard
+  - Migrations: 👂 heard
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Backup and recovery: 🎓 known
+  - Database scalability: 👂 heard
+  - Relational databases: 👂 heard
+  - Key-value store: 🖐️ used
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
-  - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
+  - In-memory databases: 👂 heard
+  - Inverted index: 👂 heard
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 👂 heard
+  - Data manipulation language (DML): 👂 heard
+  - Data query language (DQL): 👂 heard
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
+  - Normal forms: 🖐️ used
+  - Indexing: 🖐️ used
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
+  - Transactions: 👂 heard
+  - Views: 👂 heard
   - Subqueries
-  - Stored procedures
+  - Stored procedures: 👂 heard
   - SQL functions
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization: 👂 heard
 - SQL
   - `SELECT`
   - `INSERT`
@@ -85,10 +85,10 @@
   - DynamoDB
   - Firebase
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
+  - Data warehousing: 👂 heard
+  - Business intelligence: 👂 heard
+  - Big data: 👂 heard
+  - Data analysis: 🎓 known
+  - AI tools: 🔬 researched
+  - Cloud databases: 👂 heard
   - Data Visualization

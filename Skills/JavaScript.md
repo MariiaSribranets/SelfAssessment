@@ -5,10 +5,10 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`
+  - `BigInt`: 👂 heard
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
-  - `Infinity`
+  - `Infinity`: 👂 heard
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
@@ -18,17 +18,17 @@
   - `...rest`
   - `typeof`: 🖐️ used
   - Destructuring
-  - Generators
+  - Generators: 🖐️ used
   - Iterators: 🖐️ used
   - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
-  - Chaining
-  - Optional chaining
+  - Chaining: 🖐️ used
+  - Optional chaining: 👂 heard
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`: 👂 heard
+  - `window`: 🖐️ used
   - Getters and setters
   - `__proto__`: 👂 heard
   - `prototype`: 👂 heard
@@ -41,15 +41,15 @@
   - `yield`: 👂 heard
   - `await`: 🖐️ used
   - Template literal
-  - Strict mode: 👂 heard
+  - Strict mode: 🎓 known
   - Hoisting
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 👂 heard
   - `eval`
   - `static`: 🖐️ used
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -95,9 +95,9 @@
   - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
+  - Typed arrays: 👂 heard
   - Mixins
-  - `Object.assign`
+  - `Object.assign`: 👂 heard
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
   - V8
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier
+  - prettier: 🖐️ used
   - MDN: 👂 heard
   - TC39
