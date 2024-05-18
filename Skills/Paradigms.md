@@ -6,7 +6,7 @@
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
   - Functional programming: 🖐️ used
-  - Prototype-based programming
+  - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming
@@ -23,12 +23,12 @@
   - Lambda calculus
   - Black box
   - Information hiding
-  - Aspect-oriented programming
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
   - Class composition
 - OOP basics
   - Constructor: 🖐️ used
-  - Operator `new`
+  - Operator `new`: 🖐️ used
   - Static method
   - Method: 🖐️ used
   - Async method: 🖐️ used
@@ -40,10 +40,10 @@
   - Parent class: 🖐️ used
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form: 👂 heard
   - Instance
   - Introspection
   - Reflection
@@ -66,20 +66,20 @@
 - Patterns
   - Singleton
   - Factory Method
-  - Abstract Factory
-  - Adapter
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
   - Observer
   - Strategy: 🎓 known
-  - Facade
+  - Facade: 👂 heard
   - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command
+  - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🖐️ used
   - Bridge
-  - Builder
+  - Builder: 👂 heard
   - Prototype: 👂 heard
-  - Composite
+  - Composite: 👂 heard
   - Decorator
   - Flyweight
   - Mediator
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation: 👂 heard
