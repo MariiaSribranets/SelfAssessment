@@ -11,7 +11,7 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 👂 heard
   - ECMAScript modules: 👂 heard
   - Module `node:module`: 🎓 known
   - Caching in CJS and ESM
@@ -26,12 +26,12 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API
   - Web Streams API
@@ -41,9 +41,9 @@
   - File system API (sync and async): 👂 heard
   - Copy folder recursively
   - Worker threads
-  - Performance hooks
+  - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici
-  - async_hooks
+  - async_hooks: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S): 👂 heard
+  - HTTP(S): 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -90,27 +90,27 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
+  - Logging: 👂 heard
+  - Application configuring: 👂 heard
   - Testing: 👂 heard
   - CI/CD
-  - Readable
+  - Readable: 👂 heard
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console: 🖐️ used
+  - Inspector: 👂 heard
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -119,16 +119,16 @@
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
+  - `C` and `C++` addons: 🖐️ used
+  - `Rust` addons: 👂 heard
+  - `Zig` addons: 👂 heard
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
   - NAPI `C` and `C++`
