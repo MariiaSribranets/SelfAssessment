@@ -3,8 +3,8 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 👂 heard
   - Garbage collection in .NET
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
@@ -21,50 +21,50 @@
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
-  - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Windows Services and Linux Daemons: 👂 heard
+  - Hosting and Deployment models: 👂 heard
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 👂 heard
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
-  - Cryptography and secure data handling
-  - Memory and resource management
-  - Globalization and localization
+  - Security features (authentication, authorization): 🎓 known
+  - Cryptography and secure data handling: 🎓 known
+  - Memory and resource management: 🎓 known
+  - Globalization and localization: 🖐️ used
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support: 👂 heard
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention): 👂 heard
+  - Serialization and deserialization (JSON, XML): 👂 heard
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
-  - Logging and tracing
+  - Logging and tracing: 👂 heard
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies: 👂 heard
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration
+  - Data modeling and migration: 👂 heard
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
   - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
-  - Profiling and performance analysis
-  - Memory leak detection
+  - Custom error classes: 👂 heard
+  - Debugging and diagnostic tools: 👂 heard
+  - Profiling and performance analysis: 👂 heard
+  - Memory leak detection: 👂 heard
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
@@ -76,7 +76,7 @@
   - Microservices architecture
   - Containerization with Docker
   - Kubernetes for orchestration
-  - Serverless computing
+  - Serverless computing: 👂 heard
 - C# Development
   - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
