@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity 
+  - Modularity
   - Components: 🖐️ used
   - Directories: 🖐️ used
   - GRASP
@@ -33,7 +33,7 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture h
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker

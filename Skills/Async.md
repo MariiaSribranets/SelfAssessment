@@ -68,8 +68,8 @@
   - Promise double resolve: 👂 heard
   - Atomics
   - High resolution clock
-  - Callback hell: : 🎓 known
-  - Promise hell: : 🎓 known
+  - Callback hell:: 🎓 known
+  - Promise hell:: 🎓 known
   - ref() and unref(): 🖐️ used
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
